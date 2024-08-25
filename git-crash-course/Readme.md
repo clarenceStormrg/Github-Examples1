@@ -48,7 +48,7 @@ You will use the PAT as your pasword when you login
 ## SSH
 
 ```ssh
-git@github.com:clarenceStormrg/Github-Examples1.git
+git clone git@github.com:clarenceStormrg/Github-Examples1.git
 cd Github-Examples1
 ```
 
